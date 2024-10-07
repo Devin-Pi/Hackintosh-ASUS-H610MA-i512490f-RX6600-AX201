@@ -1,12 +1,13 @@
 # ASUSH610MA-i512490f-RX6600
+本仓库用于在以下硬件组成下的hackintosh安装。
 This repo is for the installment of Hackintosh.
 
 ## **ASUS H610M-A + 12490f + 6600 + AX201 + OC 0.9.0 + macOS Ventura 13.0** ##
 
-![](/Users/devinpi/Documents/ASUSH610MA-i512490f-RX6600/show.png)
+![](https://github.com/Devin-Pi/ASUSH610MA-i512490f-RX6600/blob/main/show.png)
 
-### Hardware Specifications
-|Component |        Model|
+### 硬件 Hardware Specifications
+| 组成 Component |        型号 Model|
 | -------- | ---------------------------------- |
 | CPU   | 12th Gen Intel Core i5-12490f       |
 | MB  | ASUS PRIME H610M-A D4              |
@@ -20,17 +21,17 @@ This repo is for the installment of Hackintosh.
 | Monitor 2 | AOCU2790PQU  ( 27 )   |
 
 
-### 功能
+### 功能（Functions）
 
-* ✅ Audio
-* ✅ USB
-* ✅ WiFi
-* ✅ Intel Bluetooth
-* ✅ RX 6600
-* ✅ CPU Boost
-* ✅ LAN
-* ✅ AirDrop
+* ✅ 声卡 Audio
+* ✅ usb接口 USB
+* ✅ 无线网卡 WiFi
+* ✅ 蓝牙 Intel Bluetooth
+* ✅ 显卡 RX 6600
+* ✅ cpu睿频 CPU Boost
+* ✅ 有线网卡 LAN
+* ✅ 空投 AirDrop
 
 
-### Acknowledgements
+### 致谢 Acknowledgements
 - https://github.com/geekfory/Hackintosh-EFI-ASUS-H610M-A-12400-6600xt-AX201
